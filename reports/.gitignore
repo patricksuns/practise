@@ -1,0 +1,7 @@
+# Ignore all generated reports and state files
+*.yaml
+*.json
+*.md
+
+# Keep this directory in git
+!.gitignore
